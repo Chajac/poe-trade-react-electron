@@ -11,5 +11,7 @@ This project is a trade companion tool designed for Path of Exile on Windows. Th
 - **Stored trades**: Your trades will be saved to a local database to allow you to parse back and figure out your earnings over a period of time.
 - **Lightweight and unobtrusive**: The experience works best in a dual monitor setup, this is ideally as unobtrusive to your in-game immersion as possible.
 
+![Incoming Requests](https://i.imgur.com/JC77vmA.png)
+![Historical Requests](https://i.imgur.com/J8DDNKK.png)
 
 ### Created with Electron, React, Typescript, NextUI and TailwindCSS
